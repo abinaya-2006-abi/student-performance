@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 import numpy as np
-df = pd.read_csv("student_performance.csv")
+df = pd.read_csv("Student_Performance.csv")
 
 display(df.head())
 display(df.tail())
